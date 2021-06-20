@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Article CMS (FlaskWebProject)
 
 This project is a Python web application built using Flask. The user can log in and out and create/edit articles. An article consists of a title, author, and body of text stored in an Azure SQL Server along with an image that is stored in Azure Blob Storage. You will also implement OAuth2 with Sign in with Microsoft using the `msal` library, along with app logging.
@@ -66,3 +67,7 @@ All Python dependencies are stored in the requirements.txt file. To install them
     brew install unixodbc
     ```
 - Check [here](https://docs.microsoft.com/en-us/sql/connect/odbc/linux-mac/install-microsoft-odbc-driver-sql-server-macos?view=sql-server-ver15) to add SQL Server drivers for Mac.
+=======
+# Article-CMS
+This is project based on Article Content Management System. This project is made using Flask and Azure.
+>>>>>>> 73b4d8d83311b563e7031121414fbd0848019de3
