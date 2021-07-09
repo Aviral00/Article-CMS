@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 
+![article](https://user-images.githubusercontent.com/43886946/125033863-84635b00-e0ad-11eb-96a2-3f47b9e0ce81.png)
+
+
 # Article CMS (FlaskWebProject)
 
 This project is a Python web application built using Flask. The user can log in and out and create/edit articles. An article consists of a title, author, and body of text stored in an Azure SQL Server along with an image that is stored in Azure Blob Storage. You will also implement OAuth2 with Sign in with Microsoft using the `msal` library, along with app logging.
