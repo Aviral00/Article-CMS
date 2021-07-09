@@ -1,7 +1,5 @@
 <<<<<<< HEAD
 
-![article](https://user-images.githubusercontent.com/43886946/125033863-84635b00-e0ad-11eb-96a2-3f47b9e0ce81.png)
-
 
 # Article CMS (FlaskWebProject)
 
