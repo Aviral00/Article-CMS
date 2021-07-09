@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 
+# Deployed app link
+
+http://article-cms.azurewebsites.net/login
 
 # Article CMS (FlaskWebProject)
 
