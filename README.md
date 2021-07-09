@@ -2,7 +2,7 @@
 
 # Deployed app link
 
-http://article-cms.azurewebsites.net/login
+http://article-cms.azurewebsites.net/
 
 # Article CMS (FlaskWebProject)
 
